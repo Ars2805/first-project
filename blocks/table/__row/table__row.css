@@ -1,0 +1,7 @@
+.table__row {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    margin: 60px 0px 0px 0px; 
+    padding: 0px;
+}
